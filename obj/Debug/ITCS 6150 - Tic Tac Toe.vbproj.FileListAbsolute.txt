@@ -1,0 +1,10 @@
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\bin\Debug\ITCS 6150 - Tic Tac Toe.exe.config
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\bin\Debug\ITCS 6150 - Tic Tac Toe.exe
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\bin\Debug\ITCS 6150 - Tic Tac Toe.pdb
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\bin\Debug\ITCS 6150 - Tic Tac Toe.xml
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\obj\Debug\ITCS_6150___Tic_Tac_Toe.Form1.resources
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\obj\Debug\ITCS_6150___Tic_Tac_Toe.Resources.resources
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\obj\Debug\ITCS 6150 - Tic Tac Toe.vbproj.GenerateResource.Cache
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\obj\Debug\ITCS 6150 - Tic Tac Toe.exe
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\obj\Debug\ITCS 6150 - Tic Tac Toe.xml
+c:\users\maritza\documents\visual studio 2013\Projects\ITCS 6150 - Tic Tac Toe\ITCS 6150 - Tic Tac Toe\obj\Debug\ITCS 6150 - Tic Tac Toe.pdb
